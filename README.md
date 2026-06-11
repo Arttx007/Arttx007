@@ -1,79 +1,115 @@
-<h1 align="center">Olá, eu sou Arthur</h1>
-
-<h3 align="center">
-💻 Desenvolvedor Full Stack | ☕ Java | 🤖 IA | 🌐 Web Development
-</h3>
+<h1 align="center">Arthur Ricardo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Java+%7C+Python+%7C+Spring+Boot;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o" />
+  <strong>Software Developer | Java | Spring Boot | Python | MySQL</strong>
+</p>
+
+<p align="center">
+  Desenvolvendo soluções através de código, aprendizado contínuo e projetos práticos.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-m-9b1755200/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:s.arthur.ricardo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-- 🎓 Estudante de Desenvolvimento de Software
-- ☕ Focado em Java e Spring Boot
-- 🤖 Estudando Inteligência Artificial
-- 💾 Experiência com MySQL e Banco de Dados
-- 🌐 Desenvolvimento Web com HTML, CSS e JavaScript
-- 📚 Sempre aprendendo novas tecnologias
+Sou estudante de Desenvolvimento de Software com foco em desenvolvimento backend, banco de dados e aplicações web.
+
+Atualmente estou aprofundando meus conhecimentos em Java, Spring Boot, APIs REST, SQL e Inteligência Artificial através de projetos práticos e estudos contínuos.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,php,mysql,html,css,js,git,github,vscode" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,python,php,mysql,html,css,js,git,github,vscode,idea" />
 
-## 📊 Estatísticas
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arttx007&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arttx007&layout=compact&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arttx007&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arttx007&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arttx007&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arttx007&hide_border=true&theme=github-compact" />
+
+</div>
 
 ---
 
 ## 📌 Projetos em Destaque
 
-🚑 Sistema Loja Real CRUD
+### 🚑 Sistema Loja Real
+Sistema CRUD completo utilizando PHP, MySQL, HTML, CSS e JavaScript.
 
-🌐 Site TaskGo
+### 🌐 TaskGo
+Plataforma web desenvolvida com foco em organização de tarefas e produtividade.
 
-☕ API REST com Spring Boot
+### ☕ API REST Spring Boot
+API desenvolvida com Java, Spring Boot, JPA e banco de dados relacionais.
 
-🤖 Projetos de Inteligência Artificial
-
-💾 Banco de Dados MySQL
+### 🤖 Inteligência Artificial
+Projetos voltados para aprendizado de Machine Learning, automação e IA utilizando Python.
 
 ---
 
-## 📫 Contato
+## 🎯 Atualmente Estudando
+
+- Java e Spring Boot
+- APIs REST
+- JPA / Hibernate
+- Banco de Dados Relacionais
+- Inteligência Artificial
+- Arquitetura de Software
+
+---
+
+## 📚 Objetivos
+
+- Construir aplicações escaláveis e bem estruturadas
+- Aprimorar conhecimentos em backend
+- Desenvolver soluções utilizando Inteligência Artificial
+- Evoluir continuamente como desenvolvedor
+
+---
+
+## 🌎 Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arthur-m-9b1755200/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:s.arthur.ricardo@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="https://www.linkedin.com/in/arthur-m-9b1755200/">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:s.arthur.ricardo@gmail.com">
+    E-mail
+  </a>
 </p>
 
 ---
 
 <p align="center">
+  ⭐ Obrigado por visitar meu perfil!
 </p>
