@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou Arthur Ricardo 👋</h1>
+<h1 align="center">Olá, eu sou Arthur</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Full Stack em formação | ☕ Java | 🤖 IA | 🌐 Web Development
+💻 Desenvolvedor Full Stack | ☕ Java | 🤖 IA | 🌐 Web Development
 </h3>
 
 <p align="center">
